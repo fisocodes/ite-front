@@ -1,0 +1,85 @@
+body {
+    font-family: 'Comfortaa';
+}
+
+h1 {
+    position: absolute;
+}
+
+.mx {
+    color: #C0392B;
+    top: 50%;
+    left: 50%;
+    font-size: 3rem;
+}
+
+.us {
+    color: #9B59B6;
+    top: 25%;
+    left: 25%;
+    font-size: 7rem;
+}
+
+.jp {
+    color: #2980B9;
+    top: 70%;
+    left: 55%;
+    font-size: 5rem;
+    z-index: 1;
+}
+
+.it {
+    color: #1ABC9C;
+    top: 25%;
+    left: 75%;
+    font-size: 4rem;
+}
+
+.hw {
+    color: #27AE60;
+    top: 25%;
+    left: 45%;
+    font-size: 8rem;
+}
+
+.ru {
+    color: #F1C40F;
+    top: 50%;
+    left: 15%;
+    font-size: 9rem;
+}
+
+.ko {
+    color: #E67E22;
+    top: 50%;
+    left: 10%;
+    font-size: 3rem;
+}
+
+.po {
+    color: #839192;
+    top: 10%;
+    left: 10%;
+    font-size: 3rem;
+}
+
+.hi {
+    color: #2C3E50;
+    top: 20%;
+    left: 50%;
+    font-size: 3rem;
+}
+
+.he {
+    color: #F1948A;
+    top: 50%;
+    left: 70%;
+    font-size: 3rem;
+}
+
+.sw {
+    color: #784212;
+    top: 5%;
+    left: 50%;
+    font-size: 3rem;
+}
